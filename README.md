@@ -4,3 +4,6 @@
 ## Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Contact
+📫 Contact me: [Email](mailto:huutai08072009@gmail.com)
